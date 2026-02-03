@@ -17,6 +17,12 @@ This project is a Spring Boot backend application that exposes REST APIs by inte
 - GET /loan – Fetch loan details
 - GET /transactions – Fetch transaction history
 
+## API Endpoints (Demo)
+- http://localhost:8080/balance
+- http://localhost:8080/loan
+- http://localhost:8080/transactions
+
+
 ## Architecture
 COBOL Programs → JSON Output Files → Spring Boot REST APIs → Frontend UI
 
